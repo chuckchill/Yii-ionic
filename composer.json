@@ -1,10 +1,14 @@
 {
-    "name": "chuckchill/yii-ionic",
-    "authors": [
-        {
-            "name": "Albert Qiu",
-            "email": "26038180@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "chuckchill/yii-ionic",
+  "authors": [
+    {
+      "name": "Albert Qiu",
+      "email": "26038180@qq.com"
+    }
+  ],
+  "keywords": ["yii2", "framework", "php", "ionic"],
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": ">=2.0.6"
+  }
 }
