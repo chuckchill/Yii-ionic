@@ -1,5 +1,6 @@
 <?php
 namespace chuckchill\test;
+
 /**
  * Created by PhpStorm.
  * User: albert
