@@ -1,0 +1,19 @@
+{
+  "name": "chuckchill/yii-ionic",
+  "description": "hello",
+  "authors": [
+    {
+      "name": "Albert Qiu",
+      "email": "26038180@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "HelloWorld": "src/"
+    }
+  }
+}
