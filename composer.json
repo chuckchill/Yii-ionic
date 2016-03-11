@@ -2,7 +2,6 @@
   "name": "chuckchill/yii-ionic",
   "description": "php message queue wrapper",
   "license": "Albert-Qiu",
-  "version": "1.0.0",
   "authors": [
     {
       "name": "Albert Qiu",
@@ -15,7 +14,7 @@
     "php",
     "ionic"
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "dev-master",
   "require": {
     "yiisoft/yii2": ">=2.0.6"
   },
