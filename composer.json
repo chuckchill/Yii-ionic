@@ -1,5 +1,6 @@
 {
   "name": "chuckchill/yii-ionic",
+  "license": "BSD-3-Clause",
   "require-dev":{
     "weaverryan/derp-dangerzone":"*"
   },
