@@ -1,5 +1,9 @@
 {
   "name": "chuckchill/yii-ionic",
+  "require-dev":{
+    "weaverryan/derp-dangerzone":"*"
+  },
+  "minimum-stability":"dev",
   "autoload": {
     "psr-0": {
       "HelloWorld": "src/"
